@@ -35,25 +35,4 @@ The <strong>YouTube Ad Accelerator and Skipper</strong> is your guardian against
 Once installed, the extension will automatically take care of ads on YouTube, allowing you to enjoy your content seamlessly.
 </p>
 
-<h2>Support</h2>
 
-<p>
-Having trouble? Write <a href="https://t.me/omar07ibrahim">Here</a> and we'll help you sort it out.
-</p>
-
-<h2>Screenshots</h2>
-
-<div align="center">
-  <img src="https://ltdfoto.ru/images/2023/11/06/menu.png" alt="Extension settings interface" width="300px" />
-  <p><em>Extension settings interface.</em></p>
-</div>
-
-<div align="center">
-  <img src="https://ltdfoto.ru/images/2023/11/06/mini.png" alt="See the extension skipping a YouTube ad" width="200px" />
-  <p><em>See the extension skipping a YouTube ad.</em></p>
-</div>
-
-
-<div align="center">
-  <p><strong>Enjoy your enhanced YouTube experience!</strong></p>
-</div>
